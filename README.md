@@ -57,7 +57,24 @@ CODE-EDITOR/
 └── README.md         # Project documentation
  ```
 
-## Screenshot's-
+### Screenshots
+
+### 1. Join Code Room - Login Screen
+![Login Screen](./screenshots/Screenshot 2025-08-02 162537.png)
+Initial screen where users enter a **Room ID** and **Name** to join the coding session.
+
+### 2. Two Users Joining Same Room
+![Two Users Joining](./screenshots/Screenshot 2025-08-02 162719.png)
+Two different users (PARTH and ADITYA) are entering the same room (`Room ID: 123`) from separate browser windows.
+
+### 3. Shared Code Editor with User List
+![Shared Code Room](./screenshots/Screenshot 2025-08-02 162805.png)
+Both users are now in the same room and can see the same editor, user list, input area, and compile button in real-time.
+
+### 4. Language Dropdown
+![Language Selector](./screenshots/Screenshot 2025-08-02 162818.png)
+Users can choose from multiple programming languages like JavaScript, Python, Java, and C++ for compiling and testing their code.
+
 
 
 
