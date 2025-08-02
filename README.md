@@ -46,6 +46,29 @@ git clone https://github.com/YOUR_USERNAME/CODE-EDITOR.git
 cd CODE-EDITOR
 ```
 
+### Install Backend Dependencies in root directory
+```bash
+npm init -y
+npm install express socket.io axios dotenv
+npm i- D nodemon
+```
+
+
+### Install Backend Dependencies in backend directory and running backend file
+```bash
+npm install
+node index.js
+```
+
+
+### Install frontend Dependencies in frontend directory and running frontend file
+```bash
+npm install
+npm run dev
+```
+
+
+
 
 
 
