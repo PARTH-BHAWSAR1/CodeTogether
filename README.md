@@ -18,6 +18,24 @@ Supports **C++**, **Python**, **Java**, and **JavaScript** with live compilation
 
 ---
 
+### Technologies Used
+
+### Frontend
+- React  
+- Socket.IO Client  
+- Monaco Editor  
+- CSS3  
+
+### Backend
+- Node.js  
+- Express  
+- Socket.IO  
+- Axios  
+- Piston API  
+
+
+---
+
 ## 📂 Project Structure
 
 ```plaintext
@@ -38,6 +56,13 @@ CODE-EDITOR/
 │
 └── README.md         # Project documentation
  ```
+
+## Screenshot's-
+
+
+
+
+
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
@@ -66,6 +91,7 @@ node index.js
 npm install
 npm run dev
 ```
+
 
 
 
