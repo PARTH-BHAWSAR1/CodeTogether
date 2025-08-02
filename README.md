@@ -37,6 +37,18 @@ CODE-EDITOR/
 │   └── ...
 │
 └── README.md         # Project documentation
+ ```
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/YOUR_USERNAME/CODE-EDITOR.git
+cd CODE-EDITOR
+```
+
+
+
+
 
 
 
