@@ -1,4 +1,4 @@
-# CODE-EDITOR
+# CODE-TOGETHER
 
 A **Realtime Collaborative Code Editor** built with **React**, **Socket.IO**, and **Monaco Editor** that allows multiple users to **write, edit, and run code together** in real time.  
 Supports **C++**, **Python**, **Java**, and **JavaScript** with live compilation via the **Piston API**.  
