@@ -63,7 +63,7 @@ CODE-EDITOR/
 ![Login Screen](./screenshots/screenshot1.png)
 
 ### 2. Two Users Joining Same Room
-![Two Users Joining](./screenshots/screenshot2.png)
+![Two Users Joining](screenshots/	screenshot2.png)
 
 ### 3. Shared Code Editor with User List
 ![Shared Code Room](./screenshots/screenshot3.png)
