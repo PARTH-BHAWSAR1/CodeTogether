@@ -76,7 +76,7 @@ CODE-EDITOR/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/CODE-EDITOR.git
+git clone https://github.com/PARTH-BHAWSAR1/CodeTogether.git
 cd CODE-EDITOR
 ```
 
