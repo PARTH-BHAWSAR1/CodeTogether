@@ -24,11 +24,6 @@ function reloadWebsite() {
 
 setInterval(reloadWebsite, interval);
 
-
-
-
-
-
 const io = new Server(server, {
   cors: {
     origin: "*",
